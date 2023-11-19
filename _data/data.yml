@@ -8,19 +8,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: 曹知翔
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: 3309839520@qq.com
+    phone: 13135323109
+    timezone: Asia/Shanghai Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: arbaleast
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -36,7 +36,7 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
+        - idiom: Chinese
           level: Professional
 
         - idiom: Spanish
@@ -67,19 +67,8 @@ education:
     title: Education
     info:
       - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+        university: 湖南工学院
+        time: 2018 - 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
